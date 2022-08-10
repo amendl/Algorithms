@@ -1,6 +1,7 @@
 # Hidden markov models
 
 
+
 #
 function markovModel(matrix::Array{T,2},state::Array{T,2}) where T<:AbstractFloat
 
